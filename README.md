@@ -1,6 +1,6 @@
 # About 
  
-A chatting Website 
+A chatting Website using React and Firebase
 
 # Getting Started with Create React App
 
